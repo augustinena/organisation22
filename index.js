@@ -23,10 +23,10 @@ function can() {
 }
 
 function fb() {
-    window.location.replace("/facebook.html");
+    window.location.replace("facebook.html");
 
 }
 
 function ig() {
-    window.location.replace("/instagram.html");
+    window.location.replace("instagram.html");
 }
